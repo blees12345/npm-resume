@@ -1,0 +1,16 @@
+{
+	"name": "Adrian Guia",
+	"website": "https://github.com/blees12345",
+	"linkedin": "https://www.linkedin.com/in/adrian-guia/",
+	"github": "blees12345",
+	"email": "adriang1702@gmail.com",
+	"resume": "https://docs.google.com/document/d/1Q96KTWeDoG6hlILQv4Khp0rNbhaXTgMNKZ2odNptdkc/edit",
+	"proficientTechnologies": [
+		"Javascript",
+		"React",
+        "css",
+        "html"
+		
+	],
+	"otherSkills": ["workingout", "nutrition"]
+}
